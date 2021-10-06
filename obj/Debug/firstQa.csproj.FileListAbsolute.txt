@@ -1,0 +1,7 @@
+C:\Users\Akhil Rao Pinninti\source\repos\firstQa\bin\Debug\firstQa.exe.config
+C:\Users\Akhil Rao Pinninti\source\repos\firstQa\bin\Debug\firstQa.exe
+C:\Users\Akhil Rao Pinninti\source\repos\firstQa\bin\Debug\firstQa.pdb
+C:\Users\Akhil Rao Pinninti\source\repos\firstQa\obj\Debug\firstQa.csproj.AssemblyReference.cache
+C:\Users\Akhil Rao Pinninti\source\repos\firstQa\obj\Debug\firstQa.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Rao Pinninti\source\repos\firstQa\obj\Debug\firstQa.exe
+C:\Users\Akhil Rao Pinninti\source\repos\firstQa\obj\Debug\firstQa.pdb
