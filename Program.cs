@@ -16,10 +16,10 @@ namespace firstQa
             Console.Write("Enter the width:");
             int width = Convert.ToInt32(Console.ReadLine());
 
-            Rectangle r = new Rectangle(length, width);
+            Rectangle r = new Rectangle(length,width);
             Console.WriteLine("Area is:" + r.GetArea());
             Console.WriteLine("Perimeter is:" + r.GetPerimeter());
-
+            Console.ReadKey();
         }
 
     }
