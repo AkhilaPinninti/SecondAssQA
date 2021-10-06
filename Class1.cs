@@ -14,8 +14,8 @@ namespace firstQa
         private int perimeter;
         public Rectangle()
         {
-            length = 1;
-            width = 1;
+            this.length = 1;
+           this.width = 1;
 
         }
         public Rectangle(int l, int w)
@@ -35,11 +35,11 @@ namespace firstQa
         }
         public int GetArea()
         {
-            return area = length * width;
+            return  length * width;
         }
         public int GetPerimeter()
         {
-            return perimeter = (length + width) * 2;
+            return (length + width) * 2;
         }
     }
 }
